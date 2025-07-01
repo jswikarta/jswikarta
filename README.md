@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Saka Wikarta</h1>
+<h1 align="center">Hi there 👋, I'm Johan Saka Wikarta</h1>
 
 <p align="center">
   A passionate full-stack developer who loves building scalable, clean, and maintainable applications.
@@ -38,6 +38,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jswikarta&show_icons=true&theme=github_dark" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jswikarta&layout=compact&theme=github_dark" />
 </p>
